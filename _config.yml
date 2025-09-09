@@ -22,7 +22,7 @@ author: Ashley Anderson
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - CSCI 103: "https://glow.williams.edu/courses/7526173"
+    - CSCI 130: "https://glow.williams.edu/courses/7526173"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://static.wikia.nocookie.net/p__/images/0/0b/MKT_Artwork_Pink_Yoshi.png/revision/latest?cb=20250222234458&path-prefix=protagonist"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
