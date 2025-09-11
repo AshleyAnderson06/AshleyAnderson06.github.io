@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why I make a great friend
+subtitle: Why I am thaking CSCI 103
 ---
 
 My name is Ashley Anderson. I have the following qualities:
