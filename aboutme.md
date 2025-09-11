@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why I am thaking CSCI 103
+subtitle: Why am I thaking CSCI 103?
 ---
 
-My name is Ashley Anderson. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am taking Electronic Textiles to dive into the world of coding and creation. As someone who values understanding and developing skill sets across many fields, I think it is especially important to understand the basics of electronic function. Electronics are ever-present in our daily lives, driving everything from wearable technology to larger systems. This course will allow me to explore the fundamentals of computer science through a uniquely creative lens, transferring digital creation into the physical world. I will not only be able to build solutions that are functional, but also creatively original.
