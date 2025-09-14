@@ -3,7 +3,7 @@ layout: post
 title: First Post
 subtitle: Who am I?
 cover-img: /assets/img/IMG_2922.pano.HEIC
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Face.JPG
 share-img: /assets/img/IMG_2922.pano.HEIC
 author: Ashley Anderson
 ---
