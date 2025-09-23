@@ -9,3 +9,4 @@ author: Ashley Anderson
 
 ![Williams embroidery](/assets/img/WilliamsSewing.png)
 
+![Second embroidery](/assets/img/WilliamsBack.png)
