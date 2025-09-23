@@ -3,7 +3,7 @@ layout: post
 title: Sewing Sampler
 subtitle: Williams embroidery project
 cover-img: /assets/img/WilliamsSewing.png
-thumbnail-img: /assets/img/Face.JPG
+thumbnail-img: /assets/img/WilliamsSewing.png
 share-img: /assets/img/IMG/pink.png
 author: Ashley Anderson
 ---
