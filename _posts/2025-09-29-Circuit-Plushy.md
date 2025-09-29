@@ -8,4 +8,5 @@ author: Ashley Anderson
 **Trick:**
 I was unable to find an embroidery hoop so I used a picture frame and hair ties to hold my fabric in place.
 
-![Williams embroidery](/assets/img/prototype.JPG) ![Second embroidery](/assets/img/back.JPG)
+<img src="/assets/img/prototype.JPG" width="45%">
+<img src="/assets/img/back.JPG" width="45%">
