@@ -13,10 +13,10 @@ For this project, I’ve been coding three LEDs to copy how different fireflies 
 Don’t get frustrated when it doesn’t work the first time—it never does. Just keep testing small changes until the pattern finally looks right.
 
 Flash Bulb
-![-50](/assets/img/-50.png)
+![flash](/assets/img/flashbulb.JPG)
 
 Big Dipper
-![0](/assets/img/0.png)
+![Dipper](/assets/img/dipper.JPG)
 
 Synchronous
-![25](/assets/img/25.png)
+![synch](/assets/img/synchronous.JPG)
