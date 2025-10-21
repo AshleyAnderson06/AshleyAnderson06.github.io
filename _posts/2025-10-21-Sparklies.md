@@ -16,7 +16,7 @@ Flash Bulb
 ![flash](/assets/img/flashbulb.JPG)
 
 Big Dipper
-![Dipper](/assets/img/dipper.JPG)
+![Dipper](/assets/img/bigdipper1.JPG)
 
 Synchronous
 ![synch](/assets/img/synchronous.JPG)
