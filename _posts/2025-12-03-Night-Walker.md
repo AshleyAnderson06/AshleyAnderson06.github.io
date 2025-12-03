@@ -21,11 +21,11 @@ The light-sensor feature also matters for your sanity and your dog’s comfort. 
 
 Overall, it’s simple, safe, and makes late-night winter walks a little less stressful for everyone.
 
----
+
 
 # **Materials**
 
----
+
 
 **Crafting / Wiring Materials**
 
@@ -47,7 +47,7 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 1 pair of metallic buttons
 
----
+
 
 **Electronic Components**
 
@@ -65,13 +65,13 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 1 USB converter/adapter (for laptop port compatibility)
 
----
+
 
 **Software**
 
 Arduino IDE
 
----
+
 
 **Tools**
 
@@ -83,8 +83,6 @@ Sewing needle
 
 
 
----
-
 # **Tips to my past self:**
 
 1. Fabric paint is not durable enough to separate crossing wires. Use instead, embroidery thread or fabric.
@@ -92,6 +90,8 @@ Sewing needle
 2. Make sure that your code is not set up so that components that are not meant to rely on each other don't rely on each other's activation to function
 
 3. Make sure that the pins you are connecting specific functions to are compatible with that function otherwise you are going to pull your hair out wondering why it doesn't work.
+
+
 
 ![FPrototype](/assets/img/Fprototype.jpg) 
 
