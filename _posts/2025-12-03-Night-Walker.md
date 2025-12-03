@@ -24,7 +24,7 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 # **Materials**
 
-
+___________________________
 **Crafting / Wiring Materials**
 
 2 cotton twill ribbons (2” × 21.5”)
@@ -45,7 +45,7 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 1 pair of metallic buttons
 
-
+_____________________
 **Electronic Components**
 
 1 LilyPad USB Plus
@@ -62,7 +62,7 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 1 USB converter/adapter (for laptop port compatibility)
 
-
+________
 **Software**
 
 Arduino IDE
@@ -75,6 +75,8 @@ Scissors
 Hot glue gun
 
 Sewing needle
+
+
 
 
 # **Tips to my past self:**
