@@ -24,39 +24,65 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 # **Materials**
 
+
 **Crafting / Wiring Materials**
+
 2 cotton twill ribbons (2” × 21.5”)
-Blue fabric paint
+
+1 Blue fabric paint
+
 1 hot glue stick
+
 1 spool of pink embroidery thread
+
 1 spool of white embroidery thread
+
 1 spool of blue sewing thread
+
 1 spool of conductive thread
+
 1 sheet of blue felt
+
 1 pair of metallic buttons
 
 
 **Electronic Components**
+
 1 LilyPad USB Plus
+
 4 red LilyPad LEDs
+
 1 LilyPad light sensor
+
 1 LilyPad buzzer
+
 1 LiPo rechargeable battery (3.7V, JST connector)
+
 1 USB charging cable
+
 1 USB converter/adapter (for laptop port compatibility)
 
+
 **Software**
+
 Arduino IDE
 
+
 **Tools**
+
 Scissors
+
 Hot glue gun
+
 Sewing needle
 
 
 # **Tips to my past self:**
+
 1. Fabric paint is not durable enough to separate crossing wires. Use instead, embroidery thread or fabric.
+
 2. Make sure that your code is not set up so that components that are not meant to rely on each other don't rely on each other's activation to function
+
 3. Make sure that the pins you are connecting specific functions to are compatible with that function otherwise you are going to pull your hair out wondering why it doesn't work.
 
 ![FPrototype](/assets/img/Fprototype.jpg) 
