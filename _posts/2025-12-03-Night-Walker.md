@@ -26,6 +26,7 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 # **Materials**
 
 ---
+
 **Crafting / Wiring Materials**
 
 2 cotton twill ribbons (2” × 21.5”)
