@@ -24,7 +24,8 @@ Overall, it’s simple, safe, and makes late-night winter walks a little less st
 
 # **Materials**
 
-__
+____
+
 **Crafting / Wiring Materials**
 
 2 cotton twill ribbons (2” × 21.5”)
@@ -45,7 +46,8 @@ __
 
 1 pair of metallic buttons
 
-__
+____
+
 **Electronic Components**
 
 1 LilyPad USB Plus
@@ -62,7 +64,8 @@ __
 
 1 USB converter/adapter (for laptop port compatibility)
 
-__
+____
+
 **Software**
 
 Arduino IDE
@@ -78,7 +81,8 @@ Sewing needle
 
 
 
-__
+____
+
 # **Tips to my past self:**
 
 1. Fabric paint is not durable enough to separate crossing wires. Use instead, embroidery thread or fabric.
