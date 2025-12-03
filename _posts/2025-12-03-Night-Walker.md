@@ -21,11 +21,11 @@ The light-sensor feature also matters for your sanity and your dog’s comfort. 
 
 Overall, it’s simple, safe, and makes late-night winter walks a little less stressful for everyone.
 
+---
 
 # **Materials**
 
-____
-
+---
 **Crafting / Wiring Materials**
 
 2 cotton twill ribbons (2” × 21.5”)
@@ -46,7 +46,7 @@ ____
 
 1 pair of metallic buttons
 
-____
+---
 
 **Electronic Components**
 
@@ -64,13 +64,14 @@ ____
 
 1 USB converter/adapter (for laptop port compatibility)
 
-____
+---
 
 **Software**
 
 Arduino IDE
 
-__
+---
+
 **Tools**
 
 Scissors
@@ -81,7 +82,7 @@ Sewing needle
 
 
 
-____
+---
 
 # **Tips to my past self:**
 
