@@ -2,9 +2,9 @@
 layout: post
 title: Night Walker
 subtitle: Final Project Report
-cover-img: /assets/img/(collar)
-thumbnail-img: /assets/img/(collar)
-share-img: /assets/img/IMG/(collar)
+cover-img: /assets/img/dogconnect.JPG
+thumbnail-img: /assets/img/dog.JPG
+share-img: /assets/img/IMG/dog.JPG
 author: Ashley Anderson
 ---
 # **Night Walker**
@@ -95,14 +95,9 @@ Sewing needle
 
 ![FPrototype](/assets/img/Fprototype.jpg) 
 
-![carfot cake](/assets/img/carrotcake.png)
+![collar](/assets/img/dog.JPG)
 
-![garden salad](/assets/img/gardensalad.png) 
+![connect](/assets/img/dogconnect.JPG) 
 
-![yogurt](/assets/img/greekyogurt.png)
+![on](/assets/img/doglight.JPG)
 
-![italian](/assets/img/m3italiancarbonara.png) 
-
-![potato](/assets/img/stuffedpotato.png)
-
-![MandC](/assets/img/Loadedmacandcheese.png)
