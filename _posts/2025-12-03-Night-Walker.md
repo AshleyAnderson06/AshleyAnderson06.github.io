@@ -2,7 +2,7 @@
 layout: post
 title: Night Walker
 subtitle: Final Project Report
-cover-img: /assets/img/dogconnect.JPG
+cover-img: /assets/img/dog.JPG
 thumbnail-img: /assets/img/dog.JPG
 share-img: /assets/img/IMG/dog.JPG
 author: Ashley Anderson
